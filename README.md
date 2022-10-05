@@ -1,16 +1,13 @@
-### Hi there 👋
+<div id="header" allign="center">
+<img src="https://media.giphy.com/media/3owzVYjZSzuFivWpHi/giphy.gif" width="200">
+<h1 allign="center"> Hi everyone</h1>
+<h2 allign="center"> I love the world of programming and i am committed to study it as thoroughly as possible</h2>
+</div>
 
-<!--
-**emylattuada/emylattuada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+About me
+- 📕 I’m currently learning Java and C#
+- 📚 I’m currently studying in UTU
+- 💬 Contact me mmoraleslattuada4@gmail.com
+- 🌐 Website soon
+---
