@@ -1,6 +1,9 @@
+
 <div id="header" allign="center">
-<img src="https://media.giphy.com/media/3owzVYjZSzuFivWpHi/giphy.gif" width="200">
-<h1 allign="center"> Hi everyone</h1>
+<img src="https://media.giphy.com/media/3owzVYjZSzuFivWpHi/giphy.gif" alt="Descripción de la imagen" weight="150" height="150" align="right"> 
+
+---
+<h1 allign="center"> Hi everyone, i'm emi</h1>
 <h2 allign="center"> I love the world of programming and i am committed to study it as thoroughly as possible</h2>
 </div>
 
