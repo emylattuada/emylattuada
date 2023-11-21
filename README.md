@@ -9,7 +9,7 @@
 
 ---
 About me
-- 📕 I’m currently learning Java and C#
+- 📕 I’m currently learning C#
 - 📚 I’m currently studying in UTU
 - 💬 Contact me mmoraleslattuada4@gmail.com
 - 🌐 Website soon
