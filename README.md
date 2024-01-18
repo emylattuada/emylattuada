@@ -9,8 +9,8 @@
 
 ---
 About me
-- 📕 I’m currently learning C#
-- 📚 I’m currently studying in UTU
+- 📕 C# dev
+- 📚 UTU graduate
 - 💬 Contact me mmoraleslattuada4@gmail.com
 - 🌐 Website soon
 ---
