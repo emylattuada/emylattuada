@@ -9,7 +9,6 @@
 
 ---
 About me
-- 📕 C# dev
 - 📚 UTU graduate
 - 💬 Contact me mmoraleslattuada4@gmail.com
 - 🌐 Website soon
